@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portofolio on Devinesia | Jasa Pembuatan Website dan Aplikasi</title>
-    <link>/portofolio/</link>
+    <link>https://devinesia.thedev.id/portofolio/</link>
     <description>Recent content in Portofolio on Devinesia | Jasa Pembuatan Website dan Aplikasi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 May 2022 14:01:10 +0700</lastBuildDate><atom:link href="/portofolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 May 2022 14:01:10 +0700</lastBuildDate><atom:link href="https://devinesia.thedev.id/portofolio/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

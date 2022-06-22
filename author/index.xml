@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Devinesia | Jasa Pembuatan Website dan Aplikasi</title>
-    <link>/author/</link>
+    <link>https://devinesia.thedev.id/author/</link>
     <description>Recent content in Authors on Devinesia | Jasa Pembuatan Website dan Aplikasi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Feb 2021 21:45:14 +0700</lastBuildDate><atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Feb 2021 21:45:14 +0700</lastBuildDate><atom:link href="https://devinesia.thedev.id/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fikri R</title>
-      <link>/author/fikri-r/</link>
+      <link>https://devinesia.thedev.id/author/fikri-r/</link>
       <pubDate>Sun, 21 Feb 2021 21:45:14 +0700</pubDate>
       
-      <guid>/author/fikri-r/</guid>
+      <guid>https://devinesia.thedev.id/author/fikri-r/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
