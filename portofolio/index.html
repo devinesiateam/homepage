@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us"><head>
   <meta charset="utf-8">
-  <title>Tags</title>
+  <title>Portofolio</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -121,24 +121,79 @@
 </header>
 <!-- /navigation --> <div class="py-5 d-none d-lg-block"></div> 
 
-
-<section class="section">
+<section class="section pt-0">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 mx-auto px-0">
-        <h2 class="mb-4">Posts related to <span class="text-primary">Tags</span></h2>
-        <div class="bg-white shadow block">
-          
-          
-          
-          <div class="mt-5">
-            
-          </div>
+      <div class="col-lg-8 mx-auto text-center">
+        <h3>Portofolio</h3>
+        <p>Berikut beberapa project terakhir yang telah kami kerjakan serta jenis project yang dapat dikerjakan</p>
+      </div>
+    </div>
+    <div class="row">
+    <div class="col-lg-4 mb-3">
+      <div class="card shadow projects" data-nama="Essenzo | Cryptocurrency web" data-link="https://essenzo.network/" data-tanggal="01 Mei 2021" data-keterangan="Website landing page sebuah project Cryptocurrency.">
+        <img src="/images/projects/3.png" alt="" class="card-img-top">
+        <div class="card-body">
+          <h6>Essenzo | Cryptocurrency web</h6>
         </div>
       </div>
     </div>
+    <div class="col-lg-4 mb-3">
+      <div class="card shadow projects" data-nama="Sharelink | Shortlink Service" data-link="Privasi" data-tanggal="10 Februari 2021" data-keterangan="Sebuah website layanan pemendek link atau biasa di sebut sebagai shortlink, yang siapa pun dan mendaftar serta menghasilkan uang dari setiap link yang  dibagikan.">
+        <img src="/images/projects/1.png" alt="" class="card-img-top">
+        <div class="card-body">
+          <h6>Sharelink | Shortlink Service</h6>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4">
+      <div class="card shadow projects" data-nama="SIP-PASTI | Layanan Pengadilan Agama" data-link="Privasi" data-tanggal="05 Februari 2021" data-keterangan="Website layanan untuk Pengadilan Agama Serang yang berfungsi untuk membuat beberapa surat permintaan serta layanan lainnya.">
+        <img src="/images/projects/2.jpg" alt="" class="card-img-top">
+        <div class="card-body">
+          <h6>SIP-PASTI | Layanan Pengadilan Agama</h6>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4"></div>
+  </div>
+  </div>
 </section>
 
+
+
+<div class="modal fade" id="modal-project" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Informasi Project</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="row mb-2">
+          <div class="col-md-3"><b>Nama project</b></div>
+          <div class="col-md-9"><span id="nama_project"></span></div>
+        </div>
+        <div class="row mb-2">
+          <div class="col-md-3"><b>Link</b></div>
+          <div class="col-md-9"><span id="link"></span></div>
+        </div>
+        <div class="row mb-2">
+          <div class="col-md-3"><b>Tanggal dibuat</b></div>
+          <div class="col-md-9"><span id="tanggal"></span></div>
+        </div>
+        <div class="row">
+          <div class="col-md-3"><b>Keterangan</b></div>
+          <div class="col-md-9"><span id="keterangan"></span></div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 <footer class="py-4 bg-light border-top">
