@@ -6,14 +6,15 @@
     <description>Recent content on Devinesia | Jasa Pembuatan Website dan Aplikasi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 May 2022 14:01:10 +0700</lastBuildDate><atom:link href="https://devinesia.thedev.id/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Jun 2022 14:01:10 +0700</lastBuildDate><atom:link href="https://devinesia.thedev.id/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Laravel Advanced: 10 Topik dan Link Untuk Mempelajarinya</title>
-      <link>https://devinesia.thedev.id/posts/laravel-advanced-10-topik-dan-link-untuk-mempelajarinya/</link>
-      <pubDate>Wed, 24 Feb 2021 14:22:44 +0700</pubDate>
+      <title>Telegram bot | Multi purposes bot</title>
+      <link>https://devinesia.thedev.id/portofolio/telegram-bot/</link>
+      <pubDate>Sat, 05 Jun 2021 14:01:45 +0700</pubDate>
       
-      <guid>https://devinesia.thedev.id/posts/laravel-advanced-10-topik-dan-link-untuk-mempelajarinya/</guid>
-      <description>Mungkin kita pernah bertanya &amp;ldquo;Bagaimana cara meningkatkan skill laravel saya&amp;rdquo;, karena di Laravel kamu bukan cuma dapat membuat web CRUD :D</description>
+      <guid>https://devinesia.thedev.id/portofolio/telegram-bot/</guid>
+      <description>Berikut adalah demonstrasi bot telegram yang telah kami buat
+Airdrop bot</description>
     </item>
     
     <item>
@@ -23,15 +24,6 @@
       
       <guid>https://devinesia.thedev.id/author/fikri-r/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Perbedaan Antara Website dan Aplikasi Web</title>
-      <link>https://devinesia.thedev.id/posts/perbedaan-antara-website-dan-aplikasi/</link>
-      <pubDate>Sun, 21 Feb 2021 21:09:15 +0700</pubDate>
-      
-      <guid>https://devinesia.thedev.id/posts/perbedaan-antara-website-dan-aplikasi/</guid>
-      <description>Website adalah sekelompok halaman website yang dapat diakses secara global dan terkait satu sama lain dengan domain.</description>
     </item>
     
     <item>
